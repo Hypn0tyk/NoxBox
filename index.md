@@ -4,13 +4,135 @@
 
 <details><summary>Ultimate Content</summary><p>
   
-#### UCoB (Savage)
+<details><summary>UCoB</summary><p>
 
-  Under Constructions
+Spreadsheet - <https://docs.google.com/spreadsheets/d/1PYZEuV2-Uy15m8nrZG4Ny-pMV12VQMMKtHEAkB4xuMg/edit#gid=1008238548>
+
+__**Twintania**__
+
+5 Players in 1st fireball to build LB
+
+__**Nael**__
+
+Rotate CW to dodge AoE's
+
+Nael Spread Positions, Nael facing relative - <https://i.imgur.com/52esdNB.png>
+
+How to handle Third set of dooms Doom - <https://i.imgur.com/ySfuMiI.png>
+
+Divebomb diagram - <https://i.imgur.com/CZ0n3kZ.png>
+
+__**Quickmarch**__
+
+Spread Positions - <https://i.imgur.com/oWzIVFn.png>
+
+Megaflare Stack Position - <https://i.imgur.com/m7bnrmD.png>
+
+__**Blackfire**__
+
+Movement for Towers and Megaflare - <https://i.imgur.com/jQSkpMC.png>
+
+Take Towers after 2nd Hypernova
+
+__**Fellruin**__
+
+Album for Fellruin Movement - <https://imgur.com/a/iy5hJaV>
+
+Fellruin Spread Positions - <https://i.imgur.com/rPCbyOu.png>
+
+Alternate spread position image - <https://imgur.com/217vxWi>
+
+Blaster's Fellruin Diagram - <https://i.imgur.com/qgfRFBc.png>
+
+__**Heavansfall**__
+
+Dive Diagram - <https://i.imgur.com/R6s9TET.png>
+
+Knockback Positions Jobs - <https://i.imgur.com/XLpGwLR.png>
+
+Spread Positions by character - <https://i.imgur.com/UWcHEl5.png>
+
+__**Tenstrike**__
+
+Initial Positions, Hatch and Neurolink Coverage - <https://imgur.com/a/AHtd2dc>
+
+Position Simplification for Earthquakes - <https://i.imgur.com/HpOL9Rz.png>
+
+__**Grand Octet**__
+
+Initial Movement - <https://i.imgur.com/7h6Q532.png>
+
+Twin Dive - <https://i.imgur.com/r7vhgkH.png>
+
+Handling Towers - <https://i.imgur.com/RZWoczB.png>
+
+__**Terraflare**__
+
+Focus target Twin to see twister cast.
+
+Dive positions - <https://i.imgur.com/KsCft04.png>
+
+Nael Quotes Movement - <https://imgur.com/a/BO5i7RZ>
+
+__**Golden**__
+
+Melee LB3 at start, 3 filler GCD's
+
+Cooldown Chart - <https://i.imgur.com/UvszwVr.png>
+</p></details>
+
+<details><summary>UWU </summary><p>
   
-#### UWU (Savage)
+Spreadsheet - <https://docs.google.com/spreadsheets/d/12cNDVoLyWCggnTWXjOMzVKT0L84KOF3vlUsU18LLfuE/edit?usp=sharing>
 
-Under Constructions
+__**Garuda**__
+
+SCH pick up puddle
+
+__**Ifrit**__
+
+Nail Kill Order - <https://i.imgur.com/CkOSjmf.png>
+
+Dives & Baits - <https://imgur.com/L2nbNcJ>
+
+SMN pick up puddle
+
+__**Titan**__
+
+Gaol Order - <https://imgur.com/1Eqzqxn>
+
+ACT Plugin for Titan Gaols - <https://github.com/Tarutella/titan-jail-plugin>
+
+MNK pick up puddle
+
+__**Intermission**__
+
+LB Order: SMN SCH MNK PLD 
+
+__**Predation**__
+
+Example Safe Spots - <https://imgur.com/SMUZtTs>
+
+__**Annihilation**__
+
+Movement Gif - <https://gfycat.com/DapperGentleCheetah>
+
+__**Supression**__
+
+Starting Positions - <https://i.imgur.com/LXBlXcR.png>
+
+Full Phase Diagram - <https://imgur.com/gallery/czuRPUU>
+
+__**Aetheric Boom**__
+
+Movement - <https://imgur.com/a/cr3o4zI>
+
+__**Trios**__
+
+All Possible Combinations - <https://i.imgur.com/4q1OrVG.png>
+
+
+</p></details>
   
   </p></details>
   
