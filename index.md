@@ -2,6 +2,19 @@
 
 ---
 
+## General
+
+[General ACT Triggers](https://hypn0tyk.github.io/NoxBox/ACT_Triggers)
+
+## Fight Resources
+
+---
+## Gear Reference
+
+---
+## Crafter Reference
+
+---
 ## Fight Resources
 
 <details markdown="1"><summary>Ultimate</summary>
