@@ -1,15 +1,22 @@
-## Welcome to GitHub Pages
+## Nox Box's Final Fantasy XIV things
 
-You can use the [editor on GitHub](https://github.com/Hypn0tyk/NoxBox/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### General ACT Triggers
+These are general use ACT triggers for party buff notifications
+```
+Triggers go here
+etc. etc.
+etc. etc.
 
-```markdown
-Syntax highlighted code block
+
+```
+### Links to key resources
+
+[Garlandtools](https://www.garlandtools.org/db/) 
+[Teamcraft](https://ffxivteamcraft.com/lists) 
+[Ariyala FFXIV Toolkit](http://ffxiv.ariyala.com/) 
 
 # Header 1
 ## Header 2
