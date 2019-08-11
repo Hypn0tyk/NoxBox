@@ -8,6 +8,8 @@
 
 ## Fight Resources
 
+[UCoB](https://hypn0tyk.github.io/NoxBox/UCoB.md)
+
 ---
 ## Gear Reference
 
