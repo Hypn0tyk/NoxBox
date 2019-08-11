@@ -4,8 +4,8 @@
 
 ## Fight Resources
 
-<details markdown="1"><summary>Ultimate Content</summary>
-  
+### Ultimate Content
+
 <details markdown="1"><summary>UCoB</summary>
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1PYZEuV2-Uy15m8nrZG4Ny-pMV12VQMMKtHEAkB4xuMg/edit#gid=1008238548)
@@ -84,7 +84,7 @@ Melee LB3 at start, 3 filler GCD's
 
 </details>
 
-<details markdown="1"><summary>UWU </summary>
+<details markdown="1"><summary>UWU</summary>
   
 [Spreadsheet](https://docs.google.com/spreadsheets/d/12cNDVoLyWCggnTWXjOMzVKT0L84KOF3vlUsU18LLfuE/edit?usp=sharing)
 
@@ -136,15 +136,15 @@ LB Order: SMN SCH MNK PLD
 
 </details>
   
-  </details>
-  
 ---
 
 <details markdown="1"><summary>Shadowbringers</summary>
   
 #### Eden's Gate (Savage)
 
-Under Constructions</details>
+Under Constructions
+
+</details>
 
 ---
 
@@ -162,7 +162,7 @@ Under Constructions
 
 Under Constructions
 
-  </details>
+</details>
 
 ## General ACT Triggers
 
