@@ -1,5 +1,5 @@
 # Nox Box's Final Fantasy XIV things
-
+---
 ## Fight Resources
 
 <details><summary>Ultimate Content</summary><p>
@@ -13,12 +13,16 @@
 Under Constructions
   
   </p></details>
+  
+---
 
 <details><summary>Shadowbringers</summary><p>
   
 #### Eden's Gate (Savage)
 
   Under Constructions</p></details>
+
+---
 
 <details><summary>Stormblood</summary><p>
   
