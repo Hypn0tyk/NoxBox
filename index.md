@@ -4,17 +4,17 @@
 
 ## Fight Resources
 
-<details><summary>Ultimate Content</summary><p>
+<details><summary>Ultimate Content</summary>
   
-<details><summary>UCoB</summary><p>
+<details><summary>UCoB</summary>
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1PYZEuV2-Uy15m8nrZG4Ny-pMV12VQMMKtHEAkB4xuMg/edit#gid=1008238548)
 
-****Twintania****
+\***\*Twintania\*\***
 
 5 Players in 1st fireball to build LB
 
-****Nael****
+\***\*Nael\*\***
 
 Rotate CW to dodge AoE's
 
@@ -24,19 +24,19 @@ Rotate CW to dodge AoE's
 
 [Divebomb diagram](https://i.imgur.com/CZ0n3kZ.png)
 
-****Quickmarch****
+\***\*Quickmarch\*\***
 
 [Spread Positions](https://i.imgur.com/oWzIVFn.png)
 
 [Megaflare Stack Position](https://i.imgur.com/m7bnrmD.png)
 
-****Blackfire****
+\***\*Blackfire\*\***
 
 [Movement for Towers and Megaflare](https://i.imgur.com/jQSkpMC.png)
 
 Take Towers after 2nd Hypernova
 
-****Fellruin****
+\***\*Fellruin\*\***
 
 [Album for Fellruin Movement](https://imgur.com/a/iy5hJaV)
 
@@ -46,7 +46,7 @@ Take Towers after 2nd Hypernova
 
 [Blaster's Fellruin Diagram](https://i.imgur.com/qgfRFBc.png)
 
-****Heavansfall****
+\***\*Heavansfall\*\***
 
 [Dive Diagram](https://i.imgur.com/R6s9TET.png)
 
@@ -54,13 +54,13 @@ Take Towers after 2nd Hypernova
 
 [Spread Positions by character](https://i.imgur.com/UWcHEl5.png)
 
-****Tenstrike****
+\***\*Tenstrike\*\***
 
 [Initial Positions, Hatch and Neurolink Coverage](https://imgur.com/a/AHtd2dc)
 
 [Position Simplification for Earthquakes](https://i.imgur.com/HpOL9Rz.png)
 
-****Grand Octet****
+\***\*Grand Octet\*\***
 
 [Initial Movement](https://i.imgur.com/7h6Q532.png)
 
@@ -68,7 +68,7 @@ Take Towers after 2nd Hypernova
 
 [Handling Towers](https://i.imgur.com/RZWoczB.png)
 
-****Terraflare****
+\***\*Terraflare\*\***
 
 Focus target Twin to see twister cast.
 
@@ -76,23 +76,23 @@ Focus target Twin to see twister cast.
 
 [Nael Quotes Movement](https://imgur.com/a/BO5i7RZ)
 
-****Golden****
+\***\*Golden\*\***
 
 Melee LB3 at start, 3 filler GCD's
 
 [Cooldown Chart](https://i.imgur.com/UvszwVr.png)
 
-</p></details>
+</details>
 
-<details><summary>UWU </summary><p>
+<details><summary>UWU </summary>
   
 [Spreadsheet](https://docs.google.com/spreadsheets/d/12cNDVoLyWCggnTWXjOMzVKT0L84KOF3vlUsU18LLfuE/edit?usp=sharing)
 
-****Garuda****
+\***\*Garuda\*\***
 
 SCH pick up puddle
 
-****Ifrit****
+\***\*Ifrit\*\***
 
 [Nail Kill Order](https://i.imgur.com/CkOSjmf.png)
 
@@ -100,7 +100,7 @@ SCH pick up puddle
 
 SMN pick up puddle
 
-****Titan****
+\***\*Titan\*\***
 
 [Gaol Order](https://imgur.com/1Eqzqxn)
 
@@ -108,47 +108,47 @@ SMN pick up puddle
 
 MNK pick up puddle
 
-****Intermission****
+\***\*Intermission\*\***
 
 LB Order: SMN SCH MNK PLD
 
-****Predation****
+\***\*Predation\*\***
 
 [Example Safe Spots](https://imgur.com/SMUZtTs)
 
-****Annihilation****
+\***\*Annihilation\*\***
 
 [Movement Gif](https://gfycat.com/DapperGentleCheetah)
 
-****Supression****
+\***\*Supression\*\***
 
 [Starting Positions](https://i.imgur.com/LXBlXcR.png)
 
 [Full Phase Diagram](https://imgur.com/gallery/czuRPUU)
 
-****Aetheric Boom****
+\***\*Aetheric Boom\*\***
 
 [Movement](https://imgur.com/a/cr3o4zI)
 
-****Trios****
+\***\*Trios\*\***
 
 [All Possible Combinations](https://i.imgur.com/4q1OrVG.png)
 
-</p></details>
+</details>
   
-  </p></details>
+  </details>
   
 ---
 
-<details><summary>Shadowbringers</summary><p>
+<details><summary>Shadowbringers</summary>
   
 #### Eden's Gate (Savage)
 
-Under Constructions</p></details>
+Under Constructions</details>
 
 ---
 
-<details><summary>Stormblood</summary><p>
+<details><summary>Stormblood</summary>
   
 #### Deltascape (Savage)
 
@@ -162,7 +162,7 @@ Under Constructions
 
 Under Constructions
 
-  </p></details>
+  </details>
 
 ## General ACT Triggers
 
