@@ -185,3 +185,5 @@ etc. etc.
 [Ariyala FFXIV Toolkit](http://ffxiv.ariyala.com/)
 
 [Etro Gear planner](https://etro.gg/)
+
+[The Balance Discord](https://discord.gg/thebalanceffxiv)
