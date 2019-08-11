@@ -4,7 +4,7 @@
 
 ## Fight Resources
 
-### Ultimate Content
+<details markdown="1"><summary>Ultimate</summary>
 
 <details markdown="1"><summary>UCoB</summary>
 
@@ -134,7 +134,7 @@ LB Order: SMN SCH MNK PLD
 
 [All Possible Combinations](https://i.imgur.com/4q1OrVG.png)
 
-</details>
+</details></details>
   
 ---
 
