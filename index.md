@@ -4,9 +4,9 @@
 
 ## Fight Resources
 
-<details><summary>Ultimate Content</summary>
+<details markdown="1"><summary>Ultimate Content</summary>
   
-<details><summary>UCoB</summary>
+<details markdown="1"><summary>UCoB</summary>
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1PYZEuV2-Uy15m8nrZG4Ny-pMV12VQMMKtHEAkB4xuMg/edit#gid=1008238548)
 
@@ -84,7 +84,7 @@ Melee LB3 at start, 3 filler GCD's
 
 </details>
 
-<details><summary>UWU </summary>
+<details markdown="1"><summary>UWU </summary>
   
 [Spreadsheet](https://docs.google.com/spreadsheets/d/12cNDVoLyWCggnTWXjOMzVKT0L84KOF3vlUsU18LLfuE/edit?usp=sharing)
 
@@ -140,7 +140,7 @@ LB Order: SMN SCH MNK PLD
   
 ---
 
-<details><summary>Shadowbringers</summary>
+<details markdown="1"><summary>Shadowbringers</summary>
   
 #### Eden's Gate (Savage)
 
@@ -148,7 +148,7 @@ Under Constructions</details>
 
 ---
 
-<details><summary>Stormblood</summary>
+<details markdown="1"><summary>Stormblood</summary>
   
 #### Deltascape (Savage)
 
