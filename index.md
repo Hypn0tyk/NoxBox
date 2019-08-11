@@ -1,4 +1,4 @@
-# Nox Box's Final Fantasy XIV things
+# Nox's Final Fantasy XIV things
 ---
 ## Fight Resources
 
@@ -40,7 +40,7 @@ Under Constructions
   </p></details>
 
 
-### General ACT Triggers
+## General ACT Triggers
 These are general use ACT triggers for party buff notifications
 ```
 Triggers go here
@@ -49,11 +49,15 @@ etc. etc.
 
 
 ```
-### Links to other resources
+## Links to other resources
 
 [Garlandtools](https://www.garlandtools.org/db/)
 
 [Teamcraft](https://ffxivteamcraft.com/lists)
 
-[Ariyala FFXIV Toolkit](http://ffxiv.ariyala.com/) 
+[Ariyala FFXIV Toolkit](http://ffxiv.ariyala.com/)
+
+[Etro Gear planner](https://etro.gg/)
+
+
 
