@@ -1,136 +1,138 @@
 # Nox's Final Fantasy XIV things
+
 ---
+
 ## Fight Resources
 
 <details><summary>Ultimate Content</summary><p>
   
 <details><summary>UCoB</summary><p>
 
-Spreadsheet - <https://docs.google.com/spreadsheets/d/1PYZEuV2-Uy15m8nrZG4Ny-pMV12VQMMKtHEAkB4xuMg/edit#gid=1008238548>
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1PYZEuV2-Uy15m8nrZG4Ny-pMV12VQMMKtHEAkB4xuMg/edit#gid=1008238548)
 
-__**Twintania**__
+****Twintania****
 
 5 Players in 1st fireball to build LB
 
-__**Nael**__
+****Nael****
 
 Rotate CW to dodge AoE's
 
-Nael Spread Positions, Nael facing relative - <https://i.imgur.com/52esdNB.png>
+[Nael Spread Positions, Nael facing relative](https://i.imgur.com/52esdNB.png)
 
-How to handle Third set of dooms Doom - <https://i.imgur.com/ySfuMiI.png>
+[How to handle Third set of dooms Doom](https://i.imgur.com/ySfuMiI.png)
 
-Divebomb diagram - <https://i.imgur.com/CZ0n3kZ.png>
+[Divebomb diagram](https://i.imgur.com/CZ0n3kZ.png)
 
-__**Quickmarch**__
+****Quickmarch****
 
-Spread Positions - <https://i.imgur.com/oWzIVFn.png>
+[Spread Positions](https://i.imgur.com/oWzIVFn.png)
 
-Megaflare Stack Position - <https://i.imgur.com/m7bnrmD.png>
+[Megaflare Stack Position](https://i.imgur.com/m7bnrmD.png)
 
-__**Blackfire**__
+****Blackfire****
 
-Movement for Towers and Megaflare - <https://i.imgur.com/jQSkpMC.png>
+[Movement for Towers and Megaflare](https://i.imgur.com/jQSkpMC.png)
 
 Take Towers after 2nd Hypernova
 
-__**Fellruin**__
+****Fellruin****
 
-Album for Fellruin Movement - <https://imgur.com/a/iy5hJaV>
+[Album for Fellruin Movement](https://imgur.com/a/iy5hJaV)
 
-Fellruin Spread Positions - <https://i.imgur.com/rPCbyOu.png>
+[Fellruin Spread Positions](https://i.imgur.com/rPCbyOu.png)
 
-Alternate spread position image - <https://imgur.com/217vxWi>
+[Alternate spread position image](https://imgur.com/217vxWi)
 
-Blaster's Fellruin Diagram - <https://i.imgur.com/qgfRFBc.png>
+[Blaster's Fellruin Diagram](https://i.imgur.com/qgfRFBc.png)
 
-__**Heavansfall**__
+****Heavansfall****
 
-Dive Diagram - <https://i.imgur.com/R6s9TET.png>
+[Dive Diagram](https://i.imgur.com/R6s9TET.png)
 
-Knockback Positions Jobs - <https://i.imgur.com/XLpGwLR.png>
+[Knockback Positions Jobs](https://i.imgur.com/XLpGwLR.png)
 
-Spread Positions by character - <https://i.imgur.com/UWcHEl5.png>
+[Spread Positions by character](https://i.imgur.com/UWcHEl5.png)
 
-__**Tenstrike**__
+****Tenstrike****
 
-Initial Positions, Hatch and Neurolink Coverage - <https://imgur.com/a/AHtd2dc>
+[Initial Positions, Hatch and Neurolink Coverage](https://imgur.com/a/AHtd2dc)
 
-Position Simplification for Earthquakes - <https://i.imgur.com/HpOL9Rz.png>
+[Position Simplification for Earthquakes](https://i.imgur.com/HpOL9Rz.png)
 
-__**Grand Octet**__
+****Grand Octet****
 
-Initial Movement - <https://i.imgur.com/7h6Q532.png>
+[Initial Movement](https://i.imgur.com/7h6Q532.png)
 
-Twin Dive - <https://i.imgur.com/r7vhgkH.png>
+[Twin Dive](https://i.imgur.com/r7vhgkH.png)
 
-Handling Towers - <https://i.imgur.com/RZWoczB.png>
+[Handling Towers](https://i.imgur.com/RZWoczB.png)
 
-__**Terraflare**__
+****Terraflare****
 
 Focus target Twin to see twister cast.
 
-Dive positions - <https://i.imgur.com/KsCft04.png>
+[Dive positions](https://i.imgur.com/KsCft04.png)
 
-Nael Quotes Movement - <https://imgur.com/a/BO5i7RZ>
+[Nael Quotes Movement](https://imgur.com/a/BO5i7RZ)
 
-__**Golden**__
+****Golden****
 
 Melee LB3 at start, 3 filler GCD's
 
-Cooldown Chart - <https://i.imgur.com/UvszwVr.png>
+[Cooldown Chart](https://i.imgur.com/UvszwVr.png)
+
 </p></details>
 
 <details><summary>UWU </summary><p>
   
-Spreadsheet - <https://docs.google.com/spreadsheets/d/12cNDVoLyWCggnTWXjOMzVKT0L84KOF3vlUsU18LLfuE/edit?usp=sharing>
+[Spreadsheet](https://docs.google.com/spreadsheets/d/12cNDVoLyWCggnTWXjOMzVKT0L84KOF3vlUsU18LLfuE/edit?usp=sharing)
 
-__**Garuda**__
+****Garuda****
 
 SCH pick up puddle
 
-__**Ifrit**__
+****Ifrit****
 
-Nail Kill Order - <https://i.imgur.com/CkOSjmf.png>
+[Nail Kill Order](https://i.imgur.com/CkOSjmf.png)
 
-Dives & Baits - <https://imgur.com/L2nbNcJ>
+[Dives & Baits](https://imgur.com/L2nbNcJ)
 
 SMN pick up puddle
 
-__**Titan**__
+****Titan****
 
-Gaol Order - <https://imgur.com/1Eqzqxn>
+[Gaol Order](https://imgur.com/1Eqzqxn)
 
-ACT Plugin for Titan Gaols - <https://github.com/Tarutella/titan-jail-plugin>
+[ACT Plugin for Titan Gaols](https://github.com/Tarutella/titan-jail-plugin)
 
 MNK pick up puddle
 
-__**Intermission**__
+****Intermission****
 
-LB Order: SMN SCH MNK PLD 
+LB Order: SMN SCH MNK PLD
 
-__**Predation**__
+****Predation****
 
-Example Safe Spots - <https://imgur.com/SMUZtTs>
+[Example Safe Spots](https://imgur.com/SMUZtTs)
 
-__**Annihilation**__
+****Annihilation****
 
-Movement Gif - <https://gfycat.com/DapperGentleCheetah>
+[Movement Gif](https://gfycat.com/DapperGentleCheetah)
 
-__**Supression**__
+****Supression****
 
-Starting Positions - <https://i.imgur.com/LXBlXcR.png>
+[Starting Positions](https://i.imgur.com/LXBlXcR.png)
 
-Full Phase Diagram - <https://imgur.com/gallery/czuRPUU>
+[Full Phase Diagram](https://imgur.com/gallery/czuRPUU)
 
-__**Aetheric Boom**__
+****Aetheric Boom****
 
-Movement - <https://imgur.com/a/cr3o4zI>
+[Movement](https://imgur.com/a/cr3o4zI)
 
-__**Trios**__
+****Trios****
 
-All Possible Combinations - <https://i.imgur.com/4q1OrVG.png>
-
+[All Possible Combinations](https://i.imgur.com/4q1OrVG.png)
 
 </p></details>
   
@@ -142,7 +144,7 @@ All Possible Combinations - <https://i.imgur.com/4q1OrVG.png>
   
 #### Eden's Gate (Savage)
 
-  Under Constructions</p></details>
+Under Constructions</p></details>
 
 ---
 
@@ -150,20 +152,22 @@ All Possible Combinations - <https://i.imgur.com/4q1OrVG.png>
   
 #### Deltascape (Savage)
 
-  Under Constructions
- 
+Under Constructions
+
 #### Sigmascape (Savage)
 
-  Under Constructions
-  
+Under Constructions
+
 #### Alphascape (Savage)
 
-  Under Constructions
+Under Constructions
+
   </p></details>
 
-
 ## General ACT Triggers
+
 These are general use ACT triggers for party buff notifications
+
 ```
 Triggers go here
 etc. etc.
@@ -171,6 +175,7 @@ etc. etc.
 
 
 ```
+
 ## Links to other resources
 
 [Garlandtools](https://www.garlandtools.org/db/)
@@ -180,6 +185,3 @@ etc. etc.
 [Ariyala FFXIV Toolkit](http://ffxiv.ariyala.com/)
 
 [Etro Gear planner](https://etro.gg/)
-
-
-
