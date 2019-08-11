@@ -14,8 +14,10 @@ etc. etc.
 ```
 ### Links to key resources
 
-[Garlandtools](https://www.garlandtools.org/db/) 
-[Teamcraft](https://ffxivteamcraft.com/lists) 
+[Garlandtools](https://www.garlandtools.org/db/)
+
+[Teamcraft](https://ffxivteamcraft.com/lists)
+
 [Ariyala FFXIV Toolkit](http://ffxiv.ariyala.com/) 
 
 # Header 1
