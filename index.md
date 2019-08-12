@@ -10,6 +10,8 @@
 
 [UCoB](https://hypn0tyk.github.io/NoxBox/UCoB.md)
 
+https://imgur.com/a/irh91kK
+
 ---
 ## Gear Reference
 
