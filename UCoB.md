@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Unending Coils of Bahamut (Ultimate)
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1PYZEuV2-Uy15m8nrZG4Ny-pMV12VQMMKtHEAkB4xuMg/edit#gid=1008238548)
